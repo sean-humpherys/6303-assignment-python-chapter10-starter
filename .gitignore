@@ -2,3 +2,4 @@
 .vscode/*
 *answer/
 __pycache__/
+_*del.db
